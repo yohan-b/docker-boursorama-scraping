@@ -1,0 +1,7 @@
+stocks:
+  - EDF
+  - BNP
+
+interval: 30.0
+api_key: "FIXME"
+post_url: "http://stock-recording:3000/add"
